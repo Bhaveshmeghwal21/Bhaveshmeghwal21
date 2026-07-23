@@ -25,7 +25,7 @@ Most of my work starts with drones, control, or operator workflows. Then it spil
 
 - **PAWAAC Drone Fleet Operations Platform**  
   Multi-service platform for mission planning, telemetry, alerts, and drone ops dashboards.  
-  Repo: [PAWAACDroneFleetOperationsPlatform](https://github.com/Bhaveshmeghwal21/PAWAACDroneFleetOperationsPlatform)
+  Repo: [Fleet-Operations-Platform](https://github.com/Bhaveshmeghwal21/PAWAACDroneFleetOperationsPlatform)
 
 - **Palmier Pro for Linux**  
   Linux port of an AI-native multi-track video editor with GPU acceleration.  
