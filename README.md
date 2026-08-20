@@ -35,11 +35,6 @@ Most of my work starts with drones, control, or operator workflows. Then it spil
   Beginner-friendly drone learning material from the AMC summer camp work.  
   Repo: [Drone-101](https://github.com/Bhaveshmeghwal21/Drone-101)
 
-## Background
-
-- UAV Engineering Intern at PAWAAC Drones
-- Secretary, Aero Modelling Club, IIT BHU
-- Inter IIT Tech Meet 13.0, Aerial Robotics, top 10 among 23 IITs
 
 ## Writing
 
