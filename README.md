@@ -42,6 +42,6 @@ I write when a project teaches me something worth keeping. Most of it sits aroun
 
 ## Find me
 
-- Portfolio: [bhaveshmeghwal21.github.io](https://bhaveshmeghwal21.github.io)
+- Portfolio: [bhaveshmeghwal.me](https://bhaveshmeghwal21.github.io)
 - LinkedIn: [bm-bhavesh-meghwal](https://www.linkedin.com/in/bm-bhavesh-meghwal/)
 - Email: [21bhavesh04@gmail.com](mailto:21bhavesh04@gmail.com)
