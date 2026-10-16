@@ -1,6 +1,6 @@
 # Bhavesh Meghwal
 
-Mechanical Engineering student at IIT (BHU) Varanasi, building around aerial robotics, AI tooling, and product systems.
+Mechanical Engineering grad at IIT (BHU) Varanasi, building around aerial robotics, AI tooling, and product systems.
 
 Most of my work starts with drones, control, or operator workflows. Then it spills into software. I like systems that have to hold up in the real world, whether that means PX4 fault-tolerant control, mission-planning tools, or AI products built on top of field data.
 
